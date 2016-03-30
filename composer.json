@@ -1,0 +1,13 @@
+{
+    "name": "fhferreira/tags",
+    "description": "Tags Relationship",
+    "license": "GPL",
+    "authors": [
+        {
+            "name": "Flavio Ferreira",
+            "email": "flaviometalvale@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+}
